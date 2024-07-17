@@ -1,4 +1,4 @@
-# Faster_RNN_car_detect
+# Fast_R_CNN_car_detect
 Faster_RNN은 기존 RNN에서 어쩌구 저쩌구된 모델
 ## 개요
 Faster_RNN 모델을 이용하여 차량 종류를 분류를 진행
